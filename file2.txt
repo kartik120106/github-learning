@@ -1,2 +1,3 @@
 today we are explore merge coflic topic.
 and in this i work on some version creations.
+this marter file uptated by anther devloper then we just add commit so marter file will be updated
